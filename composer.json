@@ -1,0 +1,16 @@
+{
+    "name": "tanv1r/xcrud",
+    "type": "library",
+    "description": "PHP MySQL CRUD Library",
+    "keywords": ["crud","php","MySQL","xcrud"],
+    "homepage": "https://tanvir.biz",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tanvir Ahmed Siddique",
+            "email": "email@tanvir.biz",
+            "homepage": "https://tanvir.biz",
+            "role": "Developer"
+        }
+    ],
+}
